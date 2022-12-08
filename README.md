@@ -3,6 +3,7 @@
 # Описание функций программы
 ### Функция public void DrawField(char[,] mazepol, player igrok):
 Данная функция перемещает иконку игрока по лабиринту.
+
 Входное значение:
 char[,] mazepol - поле
 player igrok - экземпляр класса player
